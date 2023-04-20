@@ -1,0 +1,145 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\TOMMAG~1\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\TOMMAG~1\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.5.8 (Amazon.com Inc. Java 1.8.0_332)
+[debug]       Load.loadUnit: plugins took 80.0959ms
+[debug]       Load.loadUnit: defsScala took 0.365ms
+[debug] [Loading] Scanning directory C:\Users\Tom Magnus Petersen\.sbt\1.0\plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Tom Magnus Petersen\.sbt\1.0\plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 18.7326 ms
+[debug]           Load.resolveProject(global-plugins) took 45.961ms
+[debug]         Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\Tom Magnus Petersen\.sbt\1.0\plugins, plugins: List(<none>))) took 92.3721ms
+[debug] [Loading] Done in C:\Users\Tom Magnus Petersen\.sbt\1.0\plugins, returning: (global-plugins)
+[debug]       Load.loadUnit: loadedProjectsRaw took 110.3982ms
+[debug]       Load.loadUnit: cleanEvalClasses took 0.2385ms
+[debug]     Load.loadUnit(file:/C:/Users/Tom%20Magnus%20Petersen/.sbt/1.0/plugins/, ...) took 198.221ms
+[debug]   Load.apply: load took 355.9652ms
+[debug]   Load.apply: resolveProjects took 4.849ms
+[debug]   Load.apply: finalTransforms took 48.9792ms
+[debug]   Load.apply: config.delegates took 6.0642ms
+[debug]   Load.apply: Def.make(settings)... took 301.5201ms
+[debug]   Load.apply: structureIndex took 70.5931ms
+[debug]   Load.apply: mkStreams took 1.7794ms
+[info] loading global plugins from C:\Users\Tom Magnus Petersen\.sbt\1.0\plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Load.defaultLoad until apply took 4720.8141ms
+[debug]           Load.loadUnit: plugins took 20.1805ms
+[debug]           Load.loadUnit: defsScala took 0.0021ms
+[debug] [Loading] Scanning directory E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\project
+[debug]             Load.loadUnit: mkEval took 7.2196ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.8783 ms
+[info] loading settings for project beleg3klassifikationaufgabe-build from plugins.sbt,idea.sbt ...
+[debug]               Load.resolveProject(beleg3klassifikationaufgabe-build) took 9.5949ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id beleg3klassifikationaufgabe-build, base: E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\project, plugins: List(<none>))) took 12.1137ms
+[debug] [Loading] Done in E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\project, returning: (beleg3klassifikationaufgabe-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 2102.0242ms
+[debug]           Load.loadUnit: cleanEvalClasses took 7.6329ms
+[debug]         Load.loadUnit(file:/E:/_core/Code/DataScience/Data%20Mining/Entwicklung_Sozialer_Anwendungen/Beleg%202/Beleg3KlassifikationAufgabe/project/, ...) took 2130.8197ms
+[debug]       Load.apply: load took 2132.5278ms
+[debug]       Load.apply: resolveProjects took 0.215ms
+[debug]       Load.apply: finalTransforms took 8.1375ms
+[debug]       Load.apply: config.delegates took 0.3781ms
+[debug]       Load.apply: Def.make(settings)... took 66.688ms
+[debug]       Load.apply: structureIndex took 21.8224ms
+[debug]       Load.apply: mkStreams took 0.0034ms
+[info] loading project definition from E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug]     Load.loadUnit: plugins took 2644.5166ms
+[debug]     Load.loadUnit: defsScala took 0.0021ms
+[debug] [Loading] Scanning directory E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe
+[debug]       Load.loadUnit: mkEval took 0.2093ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(com.typesafe.sbteclipse.plugin.EclipsePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.StructurePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.IdeaShellPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(com.typesafe.sbteclipse.plugin.EclipsePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.StructurePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.IdeaShellPlugin)))
+[debug] Clause(And(Set(Atom(sbt.plugins.CorePlugin), Atom(sbt.plugins.JvmPlugin))),Set(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,com.typesafe.sbteclipse.plugin.EclipsePlugin,sbt.plugins.SemanticdbPlugin,org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin,sbt.plugins.JUnitXmlReportPlugin,org.jetbrains.sbt.IdeaShellPlugin,org.jetbrains.sbt.StructurePlugin,sbt.plugins.MiniDependencyTreePlugin)
+[debug] Plugins.deducer#function took 1.9827 ms
+[info] loading settings for project beleg3klassifikationaufgabe from build.sbt ...
+[debug]         Load.resolveProject(beleg3klassifikationaufgabe) took 25.6287ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id beleg3klassifikationaufgabe, base: E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe, plugins: List(<none>))) took 28.6906ms
+[debug] [Loading] Done in E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe, returning: (beleg3klassifikationaufgabe)
+[debug]     Load.loadUnit: loadedProjectsRaw took 1668.3157ms
+[debug]     Load.loadUnit: cleanEvalClasses took 7.7359ms
+[debug]   Load.loadUnit(file:/E:/_core/Code/DataScience/Data%20Mining/Entwicklung_Sozialer_Anwendungen/Beleg%202/Beleg3KlassifikationAufgabe/, ...) took 4321.2694ms
+[debug] Load.apply: load took 4322.841ms
+[debug] Load.apply: resolveProjects took 0.0946ms
+[debug] Load.apply: finalTransforms took 20.9703ms
+[debug] Load.apply: config.delegates took 0.2454ms
+[debug] Load.apply: Def.make(settings)... took 105.1655ms
+[debug] Load.apply: structureIndex took 14.5094ms
+[debug] Load.apply: mkStreams took 0.0032ms
+[info] set current project to BelegKlassifikationAufgabe (in build file:/E:/_core/Code/DataScience/Data%20Mining/Entwicklung_Sozialer_Anwendungen/Beleg%202/Beleg3KlassifikationAufgabe/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(; set ideaPort in Global := 49601 ; idea-shell, None, None)
+[debug] > Exec(set ideaPort in Global := 49601, None, None)
+[info] Defining Global / ideaPort
+[info] The new value will be used by Compile / compile, Test / compile
+[debug] Defining 
+[debug] 	Global / ideaPort
+[debug] 
+[debug] The new value will be used by 
+[debug] 	Compile / compile
+[debug] 	Test / compile
+[info] Reapplying settings...
+[info] set current project to BelegKlassifikationAufgabe (in build file:/E:/_core/Code/DataScience/Data%20Mining/Entwicklung_Sozialer_Anwendungen/Beleg%202/Beleg3KlassifikationAufgabe/)
+[debug] > Exec(idea-shell, None, None)

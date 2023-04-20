@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTitanicDataSetTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test size of the datesets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count missing values test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Extract Attributes for Training[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- create DataSet for Training[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Create Model with Titanic Dataset[0m[0m

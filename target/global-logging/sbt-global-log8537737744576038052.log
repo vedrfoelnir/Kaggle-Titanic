@@ -1,0 +1,46 @@
+[debug] > Exec(~test, None, None)
+[error] server failed to start on local:sbt-server-78624588ceedc193bc2d. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-78624588ceedc193bc2d_lock, error 231
+[debug] > Exec(__runWatch console0, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(__preWatch console0, None, None)
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] UtilsTest:
+[info] - Test size of the datesets
+[info] NaiveBayesTest:
+[info] - Count Classes
+[info] - Count Rain
+[info] - Count Wind
+[info] - Count Season
+[info] - Count Day
+[info] - Get Attributes
+[info] - Get Attributes with missing Value
+[info] - Get Attribute Values
+[info] - Calc PriorPropablities
+[info] - Count Attribute Values for Each class
+[info] - Calculate Conditional Propabilities For Each Class
+[info] - Calc Class Values with Conditional Propablilities
+[info] - Find best fitting class
+[info] - apply Model One
+[info] - apply Model Set
+[info] - Conditional Properties with Add One Smoothing
+[info] - Model with add One-Smoothing
+[info] - Extract Values
+[info] TitanicDataSetTest:
+[info] - Test size of the datesets
+[info] - Count missing values test
+[info] - Extract Attributes for Training
+[info] - create DataSet for Training
+[info] - Create Model with Titanic Dataset
+[info] Run completed in 544 milliseconds.
+[info] Total number of tests run: 24
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 24, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[success] Total time: 1 s, completed Jun 23, 2022 9:35:04 PM
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(__postWatch console0, None, None)
+[debug] > Exec(__waitWatch console0, None, None)
+[error] server failed to start on local:sbt-server-78624588ceedc193bc2d. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-78624588ceedc193bc2d_lock, error 231

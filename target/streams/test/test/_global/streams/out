@@ -1,0 +1,39 @@
+[debug] Running TaskDef(test.UtilsTest, org.scalatest.tools.Framework$$anon$1@21d27d16, false, [SuiteSelector])
+[debug] Running TaskDef(test.TitanicDataSetTest, org.scalatest.tools.Framework$$anon$1@21d27d16, false, [SuiteSelector])
+[debug] Running TaskDef(test.NaiveBayesTest, org.scalatest.tools.Framework$$anon$1@21d27d16, false, [SuiteSelector])
+[info] UtilsTest:
+[info] - Test size of the datesets
+[info] NaiveBayesTest:
+[info] - Count Classes
+[info] - Count Rain
+[info] - Count Wind
+[info] - Count Season
+[info] - Count Day
+[info] - Get Attributes
+[info] - Get Attributes with missing Value
+[info] - Get Attribute Values
+[info] - Calc PriorPropablities
+[info] - Count Attribute Values for Each class
+[info] - Calculate Conditional Propabilities For Each Class
+[info] - Calc Class Values with Conditional Propablilities
+[info] - Find best fitting class
+[info] - apply Model One
+[info] - apply Model Set
+[info] - Conditional Properties with Add One Smoothing
+[info] - Model with add One-Smoothing
+[info] - Extract Values
+[info] TitanicDataSetTest:
+[info] - Test size of the datesets
+[info] - Count missing values test
+[info] - Extract Attributes for Training
+[info] - create DataSet for Training
+[info] - Create Model with Titanic Dataset
+[info] Run completed in 544 milliseconds.
+[info] Total number of tests run: 24
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 24, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	test.NaiveBayesTest
+[debug] 	test.TitanicDataSetTest
+[debug] 	test.UtilsTest

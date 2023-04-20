@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 7 Scala sources to E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\target\scala-2.11\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.12[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.11' for Scala 2.11.12. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.11.12.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_edc35a35[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\corretto-1.8.0_332\jre\lib\resources.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\rt.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\sunrsasign.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jsse.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jce.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\charsets.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jfr.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\classes;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_7d5743a7\jars\org.scala-sbt\compiler-interface\compiler-interface-1.2.5.jar;C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_7d5743a7\jars\org.scala-sbt\util-interface\util-interface-1.2.2.jar;C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_7d5743a7\srcs\org.scala-sbt\compiler-bridge_2.11\compiler-bridge_2.11-1.2.5-sources.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.12.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.12.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\jline\jline\jars\jline-2.14.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\TOMMAG~1\AppData\Local\Temp\sbt_2fd9ad49\xsbt\ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 7.055s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 7f49b5a2 for Scala compiler version 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\corretto-1.8.0_332\jre\lib\resources.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\rt.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\sunrsasign.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jsse.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jce.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\charsets.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\lib\jfr.jar;C:\Program Files\Java\corretto-1.8.0_332\jre\classes;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	E:\_core\Code\DataScience\Data Mining\Entwicklung_Sozialer_Anwendungen\Beleg 2\Beleg3KlassifikationAufgabe\target\scala-2.11\classes;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.vegas-viz\vegas_2.11\jars\vegas_2.11-0.3.11.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.vegas-viz\vegas-macros_2.11\jars\vegas-macros_2.11-0.3.11.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.12.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.typelevel\macro-compat_2.11\jars\macro-compat_2.11-1.1.1.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\com.github.julien-truffaut\monocle-core_2.11\jars\monocle-core_2.11-1.1.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scalaz\scalaz-core_2.11\bundles\scalaz-core_2.11-7.1.1.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\io.circe\circe-core_2.11\jars\circe-core_2.11-0.7.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\io.circe\circe-numbers_2.11\jars\circe-numbers_2.11-0.7.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.typelevel\cats-core_2.11\jars\cats-core_2.11-0.9.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.typelevel\cats-macros_2.11\jars\cats-macros_2.11-0.9.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\com.github.mpilquist\simulacrum_2.11\jars\simulacrum_2.11-0.10.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.typelevel\machinist_2.11\jars\machinist_2.11-0.6.1.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.typelevel\cats-kernel_2.11\jars\cats-kernel_2.11-0.9.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\io.circe\circe-generic_2.11\jars\circe-generic_2.11-0.7.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\com.chuusai\shapeless_2.11\bundles\shapeless_2.11-2.3.2.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\io.circe\circe-parser_2.11\jars\circe-parser_2.11-0.7.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\io.circe\circe-jawn_2.11\jars\circe-jawn_2.11-0.7.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.spire-math\jawn-parser_2.11\jars\jawn-parser_2.11-0.10.4.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\com.github.julien-truffaut\monocle-macro_2.11\jars\monocle-macro_2.11-1.1.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-12.0.2-R18.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.webjars.bower\vega-lite\jars\vega-lite-1.2.0.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.webjars.bower\vega\jars\vega-2.6.5.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.webjars.bower\d3\jars\d3-3.5.17.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-base\jars\javafx-base-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-controls\jars\javafx-controls-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-graphics\jars\javafx-graphics-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-fxml\jars\javafx-fxml-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-media\jars\javafx-media-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-swing\jars\javafx-swing-12.0.2-win.jar;C:\Users\Tom Magnus Petersen\.ivy2\cache\org.openjfx\javafx-web\jars\javafx-web-12.0.2-win.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 10.2914518 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

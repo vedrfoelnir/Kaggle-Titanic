@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mNaiveBayesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Classes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Rain[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Wind[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Season[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Day[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Get Attributes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Get Attributes with missing Value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Get Attribute Values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Calc PriorPropablities[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Count Attribute Values for Each class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Calculate Conditional Propabilities For Each Class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Calc Class Values with Conditional Propablilities[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Find best fitting class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- apply Model One[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- apply Model Set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Conditional Properties with Add One Smoothing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Model with add One-Smoothing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Extract Values[0m[0m
